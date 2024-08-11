@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedHamza0631" alt="profile views" /> </p>
 
-<p>Welcome to my GitHub profile! I'm currently a third-year engineering student at the National Institute of Technology, Delhi, specializing in Electronics and Communication. While I haven't ventured into the professional realm yet, my passion lies in both full-stack web development and exploring the exciting world of electronics and communication.
+<p>Welcome to my GitHub profile! I'm currently a final-year engineering student at the National Institute of Technology, Delhi, specializing in Electronics and Communication. While I haven't ventured into the professional realm yet, my passion lies in both full-stack web development and exploring the exciting world of electronics and communication.
 
 My GitHub repositories reflect my diverse interests. While I'm primarily focused on honing my skills in web development, I also enjoy delving into electronics projects. For example, you'll find a repository showcasing a Morse code transmitter and receiver built using Arduino Nano and  RF transceiver, highlighting my enthusiasm for bridging the gap between hardware and software.
 
