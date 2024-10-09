@@ -10,7 +10,7 @@ Currently, I'm deeply immersed in learning web technologies like Next.js, aiming
 
 Feel free to browse around and let's connect if you'd like to collaborate.</p>
 
-- 📫 How to reach me **211220035@nitdelhi.ac.in**
+- 📫 How to reach me **mohammedhamza8726@outlook.com**
 
 <p align="left"> <a href="https://twitter.com/Mohammed_0631" target="blank"><img src="https://img.shields.io/twitter/follow/Mohammed_0631?logo=twitter&style=for-the-badge" alt="naqeeb2710" /></a> </p>
 
