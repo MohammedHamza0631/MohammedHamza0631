@@ -55,8 +55,6 @@ Feel free to browse around and let's connect if you'd like to collaborate.</p>
 <a href="https://leetcode.com/Mohammed_Hamza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammedhamza0631" height="30" width="40" />
 </a>
 </p>
-<!--
-<a href="https://visitcount.itsvg.in">
+<a align="left" href="https://visitcount.itsvg.in">
       <img src="https://visitcount.itsvg.in/api?id=mohammedhamza0631&icon=0&color=0" alt="Profile Visit Count">
 </a>
--->
