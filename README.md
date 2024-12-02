@@ -36,9 +36,9 @@ Feel free to browse around and let's connect if you'd like to collaborate.</p>
   </div>
 
   <!-- GitHub Activity Graph -->
-  <div>
+ <!-- <div>
     <img loading="lazy" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=mohammedhamza0631&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </div>
+  </div> -->
 
 </div>
 
